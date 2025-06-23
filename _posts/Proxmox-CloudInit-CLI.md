@@ -1,8 +1,8 @@
 ---
-title: Proxmox Cloudiniy Setup
-date: 2025-06-01 12:00:00
+title: Proxmox Cloudinit Setup
+date: 2025-06-01 12:00:00 +100
 categories: [homelab,setup,deploy]
-tags: [VMs proxmox]
+tags: [VMs,proxmox]
 ---
 ![Alt](/articles/assets/proxmox-server-solutions-gmbh-logo-vector.png) ![Alt](/articles/assets/cloud-init-logo-vector.png)
 
