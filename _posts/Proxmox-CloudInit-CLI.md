@@ -4,7 +4,7 @@ date: 2025-06-01 12:00:00 +100
 categories: [homelab,setup,deploy]
 tags: [VMs,proxmox]
 ---
-![Alt](/articles/assets/proxmox-server-solutions-gmbh-logo-vector.png) ![Alt](/articles/assets/cloud-init-logo-vector.png)
+
 
 # Proxmox VM creation with CloudImage and CloudInit
 
@@ -77,7 +77,7 @@ qm create --boot order=scsi0
 ### Add a Cloudinit 'drive' to the VM
 The cloudinit drive (usually an ISO file - pve will (re-)generate it for you) contains the parameters for the cloudinit operation that will take place when the VM boots.
 The parameters/values can be set in the Proxmox GUI and this is done later in this process:
-![Alt](/articles/assets/VM_Cloudinit_parameters.png)
+
 
 Note that the first command will create the cloud-init disk - though it's actually an ISO file rather than a generic disk.  It will output the progress of the creation of the disk.
 
@@ -149,7 +149,7 @@ One thing to note is that once you are using cicustom files, changes via the GUI
 
 #### Creating a snippets directory
 The cloudinit configuration yaml files must be stored in a location that can be reached when the VM is starting - i.e. in a pve storage location.  To be able to create a snippet, you will first need to add a "snippet" storage if you haven't got one. To do this, in the Proxmox GUI, select your storage view and add a 'directory' storage:
-![Alt](/articles/assets/Creating_Snippets_Directory.png)
+
 
 I created a storage called "snip" and gave it a the following location in the pve's filesystem: `/snipfiles`.  When the snippet location is created it creates a "snippets subfolder in "/snipfiles:
 ```
