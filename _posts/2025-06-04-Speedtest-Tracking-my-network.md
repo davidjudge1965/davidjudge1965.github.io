@@ -1,8 +1,8 @@
 ---
-title: Speedtext tracking my network
+title: Speedtest tracking my network
 date: 2025-06-04 12:00:00 +100
 categories: [homelab,setup,deploy,monitoring]
-tags: [VMs,proxmox,monitoring,influxdb,grafana]
+tags: [VMs,proxmox,monitoring,internet]
 ---
 
 
@@ -66,7 +66,7 @@ In Portainer, I added the yaml above and started the container.
 Now I can get to https://dock:8443 where I have to create a user.
 
 At first I could not see anything - It seems the web page assumes the user is running in dark mode.  I had to select the text to see what was there:
-![Alt](/assets/images//SpeedTracker_Start_page.png)
+![Alt](/assets/images/SpeedTracker_Start_page.png)
 
 Selecting the first entry takes me to a sign-in page where I gave the initial user-email/password:
 
