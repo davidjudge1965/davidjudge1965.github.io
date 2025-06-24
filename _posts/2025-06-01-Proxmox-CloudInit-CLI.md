@@ -6,7 +6,7 @@ tags: [VMs,proxmox]
 ---
 
 
-![Alt](/assets/images/proxmox-server-solutions-gmbh-logo-vector.png) ![Alt](/assets/images/cloud-init-logo-vector.png)
+![Proxmox logo](/assets/images/proxmox-server-solutions-gmbh-logo-vector.png) ![Cloud-init logo](/assets/images/cloud-init-logo-vector.png)
 
 # Proxmox VM creation with CloudImage and CloudInit
 
