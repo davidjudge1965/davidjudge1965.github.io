@@ -19,7 +19,9 @@ title: David Judge's homelab # the main title
 tagline: Automation and Observability SME # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  David's homelab musings
+  David's homelab musings:
+  Things I have done in my home lab...
+  All too often web pages telling you how to do things don'trexplain why or gotchas - I try to remedy this here.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
