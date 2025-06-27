@@ -4,8 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
 I'm David Judge., a highly experienced Consultant and home-lab tinkerer.
 
 I have a varied background in IT - from support, to teaching, consulting, IT management and recently working for software vendors as a "Sales or Solutions Engineer". To find out more about the professional me, please head on to my [LinkedIn Profile](https://linkedIn.com/in/davidjudge).
