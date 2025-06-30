@@ -7,11 +7,11 @@ order: 4
 
 I'm David Judge., a highly experienced Consultant and home-lab tinkerer.
 
-I have a varied background in IT - from support, to teaching, consulting, IT management and recently working for software vendors as a "Sales or Solutions Engineer". To find out more about the professional me, please head on to my [LinkedIn Profile](https://linkedIn.com/in/davidjudge).
+I work in IT and have a varied background - from support, to teaching, consulting, IT management and, recently, working for software vendors as a "Sales or Solutions Engineer". To find out more about the professional me, please head on to my [LinkedIn Profile](https://linkedIn.com/in/davidjudge).
 
 I started this site/blog out of a frustration that, while many sites tell the homelabber (and a few professionals too) how to do something, many of them don't explain the rationale or reason behind the steps.
 
-This repository of projects aims to buck that trend to explain what is being done and why.
+This repository of projects aims to buck that trend to explain the 'why' behind the 'how'.
 
 As I hone my skills, I may revisit older articles and update them.
 
